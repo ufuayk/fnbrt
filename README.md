@@ -1,0 +1,1 @@
+kaynak = https://huggingface.co/ProsusAI/finbert
